@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  background-color: #12343b;
+  padding: 15px;
+  height: 100%;
+  min-height: 100vh;
+}
+
+.App.addToggleClass{
+background-color: #feb300;
+}
+
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
